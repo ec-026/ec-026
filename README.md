@@ -20,8 +20,8 @@
 I am a self-learner, who loves to develop codes and derive logics by going to the root of the problems which fascinates me to actively go for coding challenges and contests.<b></p>
 <table>
   <tr>
-    <td align="left"><p>&nbsp;<img align="center" width="450" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=ec-026&show_icons=true&locale=en" alt="ec-026" /></p></td>
-     <td align="right"><p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ec-026&" alt="ec-026" /></p></td>
+    <td align="left"><p>&nbsp;<img align="center" width="400" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=ec-026&show_icons=true&locale=en" alt="ec-026" /></p></td>
+     <td align="right"><p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ec-026&" alt="ec-026" /></p></td>
   </tr>
  </table>
 
