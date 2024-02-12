@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ec-026&label=Profile%20views&color=0e75b6&style=flat" alt="ec-026" /> </p>
 
 
-- 🌱 I’m currently learning **jQuery**
+- 🌱 I’m currently learning **GraphQL**
 
 - 💬 Ask me about **Data Structure Algo., HTML/CSS/JS**
 
