@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ec-026&label=Profile%20views&color=0e75b6&style=flat" alt="ec-026" /> </p>
 
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **AWS CloudFormation**
 
 - 💬 Ask me about **Data Structure Algo.**
 
-- 📫 How to reach me **notnormalcoder@gmail.com**
+- 📫 How to reach me **notanormalcoder@gmail.com**
 
-- 📄 Know about my [Experiences Here !!](https://drive.google.com/file/d/14nWRwpRFYrbGxyYt9xGoelqXfkyEYMWL/view?usp=sharing)
+- 📄 Know about my [Experiences Here !!](https://drive.google.com/file/d/1yxtgkA0geXmI9gYBMa7iPoV5cfuRYNUo/view?usp=sharing)
 
 <br />
 <h1 align="left"><u>⚡ Fun Fact<u></h1>
